@@ -2,10 +2,10 @@
 version: 1
 project:
   id: e0aeb69e-8b50-421c-a2b8-f8e66ab62743
-  title: Template NLT Boek
+  title: TU Delft BTC-plus
   # description:
   # keywords: []
-  authors: [Freek Pols]
+  authors: [Jeroen Spandaw & Freek Pols]
   license: CC-BY-SA-4.0
   jupyter:
     lite: true
@@ -33,4 +33,4 @@ site:
     hide_authors: true
   actions:
     - title: report issue
-      url: https://github.com/NLT-modules/Template/issues # change this to your repo
+      url: https://github.com/TUD-seed/BTC # change this to your repo
