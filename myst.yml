@@ -33,7 +33,7 @@ site:
   template: book-theme
   options:
     favicon: Figures/favicon.ico
-    logo: Figures/logo.jpg
+    logo: Figures/logo.png
     hide_authors: true
   actions:
     - title: report issue
